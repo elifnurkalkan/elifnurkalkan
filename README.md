@@ -3,7 +3,7 @@
 
 <h3>Hi everyone👋🏻</h3>
 
-I am on my way to be full stack web developer.
+I am on my way to be data engineer.
 
 
 <h2>Technologies I have worked with:</h2>
